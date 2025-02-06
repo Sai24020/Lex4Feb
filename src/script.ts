@@ -54,4 +54,3 @@ if (button !== null) {
 
 let myVariable: any = "hejhej";
 //let btn: HTMLButtonElement = document.querySelector("button");
-
